@@ -1,0 +1,3 @@
+# Stock Price Prediction
+- tensorflow:  1.13.2
+- keras:  2.2.4
